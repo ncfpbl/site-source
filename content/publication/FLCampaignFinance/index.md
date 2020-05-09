@@ -11,6 +11,7 @@ links:
 - name: Writeup
   url: FLCampaignFinance.html
 summary: Drawing maps on campaign finance in Florida using FEC data.
+categories: ["Mapping Florida Politics"]
 tags:
 - Elections
 - Florida

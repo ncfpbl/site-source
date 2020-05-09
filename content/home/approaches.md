@@ -17,19 +17,25 @@ subtitle = ""
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "Mapping Florida Politics"
+  name = "[Mapping Florida Politics](https://ncfpbl.github.io/category/mapping-florida-politics/)"
   description = "Creating maps that analyze various aspects of Florida's social and political landscape"
   
 [[feature]]
   icon = "vote-yea"
   icon_pack = "fas"
-  name = "Voting in Florida"
+  name = "[Voting in Florida](http://ncfpbl.github.io/category/voting-in-florida/)"
   description = "Analyze data from Florida's precinct returns to understand patterns in voting behavior"  
   
 [[feature]]
-  icon = "copy"
+  icon = "globe-americas"
   icon_pack = "fas"
-  name = "Reproducible Research"
-  description = "Emphasis on open-source and reproducible work"
+  name = "[Rural & Place-Based Politics](http://ncfpbl.github.io/category/rural-and-place-based-politics/)"
+  description = "Compare political behavior and policy preferences between people who live in different places"
+
+[[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "[Social Networks](http://ncfpbl.github.io/category/social-networks/)"
+  description = "Study the influence of social networks on political behavior"
 
 +++

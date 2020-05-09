@@ -15,6 +15,7 @@ publication_types:
 - "2"
 publishDate: "2019-08-01"
 summary:
+categories: ["Voting in Florida"]
 tags:
 - Florida
 - Elections

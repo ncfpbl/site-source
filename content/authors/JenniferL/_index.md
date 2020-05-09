@@ -16,9 +16,7 @@ interests:
 - Public Opinion
 - Quantitative Social Science Research Methods
 organizations:
-- name: Northwestern University
-  url: "https://www.polisci.northwestern.edu/"
-role: Ph.D. Student in Political Science
+role: Lab Member$:$ 2018 - 2020
 social:
 - icon: paper-plane
   icon_pack: fas
