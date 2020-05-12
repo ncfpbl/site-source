@@ -1,5 +1,5 @@
 ---
-title: "Join"
+title: "Join Us!"
 weight: 70
 ---
 
