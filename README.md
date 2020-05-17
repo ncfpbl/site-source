@@ -58,7 +58,7 @@
 - `people.md` -- structure of the "Meet the Team" section
 - `publications.md` -- organizes presentation of papers
 - `index.md` -- backend command structure for home page -- a DO NOT TOUCH
-- - `contact.md` -- contact widget. Contact information is edited in the `params.toml`
+- `contact.md` -- contact widget. Contact information is edited in the `params.toml`
 - Everything else is muted[^show]
 
 ## Odds and Ends
@@ -75,7 +75,7 @@ There are a few things I learned from making this site, which I document in my r
 This is a lot to learn at first. I highly recommend a designated person working on the site and having everyone request edits to their papers as desired. Alternatively, the site can sit on one of the lab computers and all edits can be made there.
 
 
-[^caveats]: Only touch the `ncfpbl.github.io` repository if you need to clean out files that are deleted in the `site source` but do not delete automatically in the `ncfpbl.github.io` backend. Sometimes, this can affect the build process. This process is best described here: https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/
-[^mute]: Features can be unmuted by adding stuff to them and activating them either in the `home/` page or by creating a menu option to access them as a separate page from home.
-[^show]: To activate a widget on the home page, use `active=` on the file's `YAML` and change the settings according to the comments (true/false).
+[^caveats]: Only touch the `ncfpbl.github.io` repository if you need to clean out files that are deleted in the `site source` but do not delete automatically in the `ncfpbl.github.io` backend. Sometimes, this can affect the build process. This process is best described here: https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/  
+[^mute]: Features can be unmuted by adding stuff to them and activating them either in the `home/` page or by creating a menu option to access them as a separate page from home.  
+[^show]: To activate a widget on the home page, use `active=` on the file's `YAML` and change the settings according to the comments (true/false).  
 [^update]: Alternatively, you can star the Academic GitHub (https://github.com/gcushen/hugo-academic) to monitor when changes are happening and update `themes/hugo-academic/` with each posted change on the Updates page in the documentation (https://sourcethemes.com/academic/updates/v4.9.0/)
