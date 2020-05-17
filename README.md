@@ -10,25 +10,25 @@
 
 ## Where is Everything?
 
-*Good Question*
+*Good Question... I always ask myself this every time I edit this site...*
 
 `config/`  
 |---`languages.toml` -- If you want something other than English  
-|---`menus.toml` -- Menu Bar  
-|---`params.toml` -- Site Parameters
+|---`menus.toml` -- Menu Bar -- use to edit menu appearances 
+|---`params.toml` -- Site Parameters --mostly set but can edit as desired to change colors, fonts and contact information
 
-`build-site.R` -- Code from `update.sh` -- a DO NOT TOUCH
+`build-site.R` -- Code from `update.sh` -- a soft DO NOT TOUCH
 
 `config.toml` -- Site configuration -- a touch only if you need to: establishes the title and URL of the site.
 
-`resources/` -- Backend stuff for site -- a DO NOT TOUCH
+`resources/` -- Backend stuff for site -- a DO NOT TOUCH (you shouldn't need to touch it anyway)
 
 `static/` -- Place for external files -- a DO NOT TOUCH EXCEPT the `img` folder and whatever other folders YOU create.  
 
 1. Academic recognizes folders. If you create a folder of something in the `content/` folder, create one with the same name in the `static/` file to put in all non-featured images and files.
 2. Use the `files/` folder for lone PDF files that are not necessarily associated with a paper. This can include CVs, letters, or other documents that is nice to show but not part of a project.
 
-`themes/` -- site theme -- a DO NOT TOUCH unless you want to upgrade. In that case, clone https://github.com/gcushen/hugo-academic.git and replace the existing `hugo-academic/` folder. As mentioned above -- THIS CAN GET MESSY!
+`themes/` -- site theme -- a DO NOT TOUCH (as in edit -- highly recommend reading through, especially the `exampleSite/` folder for blank templates) unless you want to upgrade. In that case, clone https://github.com/gcushen/hugo-academic.git and replace the existing `hugo-academic/` folder. As mentioned above -- THIS CAN GET MESSY!
 
 `update.sh` -- Publish site -- Edit commit messages as desired
 
@@ -49,6 +49,7 @@
 - `courses/` -- online course feature -- currently muted
 - `talk/` -- presentations feature -- currently muted
 - `project/` -- portfolio feature -- currently muted
+- You can create new folders in the `content/` folder to create new content pages or sections on the home page. It must come with an `index.md`. For example, I created the `join/` folder for the "Join Us" page.
 
 `content/home/` -- Because there is so much in this folder, it gets it's own section
 
@@ -61,6 +62,7 @@
 - `index.md` -- backend command structure for home page -- a DO NOT TOUCH
 - `contact.md` -- contact widget. Contact information is edited in the `params.toml`
 - Everything else is muted[^show]
+- You can also add to this by creating new `.md` files and specifying the widget and parameters using existing ones as examples.
 
 ## Odds and Ends
 
