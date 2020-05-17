@@ -5,7 +5,8 @@
 1. This site is constructed using a two-directory system using the Hugo Academic theme. Both should be cloned from GitHub and reside on your device. Materials should be manually pushed to the `site-source` repository. To publish to the actual site, use the `update.sh` file to automatically stage, commit and push to the `ncfpbl.github.io` repository. DO NOT TOUCH the contents of the `ncfpbl.github.io` repository[^caveats]
 2. Before jumping into the edits, consult and familiarize yourself with the Hugo Academic theme documentation: https://sourcethemes.com/academic/
 3. Academic is constantly being upgraded and the documentation is available on the site. If, in the future, the site wants an upgrade to a newer version with better features, consult Academic on best practices. *This process can get messy and you are probably better off backing up this repository into a local folder and importing the new layouts/features using a completely new site from `blogdown` and copy/paste your content from your old site. This depends on how long you wait for a new site.[^update]* 
-4. If you ever mess up, FEAR NOT! A blank template of everything is in the `themes/exampleSite/` folder. It helps to consult some of the tips in there for how to 
+4. If you ever mess up, FEAR NOT! A blank template of everything is in the `themes/exampleSite/` folder. It helps to consult some of the tips in there for how to use each of the functions/widgets that the site has
+5. The website works on a folder system within subfolders, especially for the `content/` folder. To create pages of anything (papers, presentations, blog posts, courses), there must be a folder (named as desired to reflect the contents) and an `index.md` that contains information like titles, authors, abstracts, and other links. This is because the backend reads the `YAML` in the `index.md` file that must be included in the subfolder when building the website. Consult existing folders, sample materials under `themes/hugo-academic/exampleSite/`, and the Academic website for samples on how to do this for each type.
 
 ## Where is Everything?
 
@@ -37,7 +38,7 @@
 
 - 	`authors/` -- site authors -- creates author bios for each person. `admin/` is Jack Reilly. Everyone else has a folder with their first name and last initial. USE the FOLDER NAME as the profile ID in the publications/papers to reference someone.
 -  `home/` -- home page -- More details below.
--  `publication/` -- all papers -- All papers have a shortened folder name to reference what the paper is about. USE the `categories` subfield on the `index.md` `YAML` to place labels of the paper type.
+-  `publication/` -- all papers -- All papers have a shortened folder name to reference what the paper is about. USE the `categories` subfield on the `index.md` `YAML` to place labels of the paper type. This is how the papers get categorized under the pages in the "Research Approaches" broad categories section. The ones currently in use are:
 	- "Mapping Florida Politics"
 	- "Voting in Florida"
 	- "Rural and Place Based Politics"
