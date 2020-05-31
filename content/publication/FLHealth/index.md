@@ -1,4 +1,5 @@
 ---
+abstract: Forthcoming
 date: "2020-05-15"
 external_link: ""
 authors:
@@ -26,4 +27,11 @@ url_slides: ""
 url_video: ""
 ---
 
-## Abstract
+## Maps of Health Resource Distribution in Florida
+
+<embed src="./FLHealth.html" width="100%" height="800" frameborder="0" allowfullscreen>
+
+
+## Maps of Health Environment Distribution in Florida
+
+<embed src="./FLHealthEnv.html" width="100%" height="800" frameborder="0" allowfullscreen>
