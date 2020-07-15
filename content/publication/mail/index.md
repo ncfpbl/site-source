@@ -18,7 +18,7 @@ publication_types:
 publishDate: "2019-03-02"
 slides: 
 summary: 
-categories: ["Voting in Florida"]
+categories: ["Florida Political Geography and Voting"]
 tags:
 - Elections
 - Florida

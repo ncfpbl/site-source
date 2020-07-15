@@ -14,7 +14,7 @@ links:
 summary: Drawing maps on campaign finance in Florida using FEC data.
 publication_types:
 - "4"
-categories: ["Mapping Florida Politics"]
+categories: ["Florida Political Geography and Voting"]
 tags:
 - Elections
 - Florida

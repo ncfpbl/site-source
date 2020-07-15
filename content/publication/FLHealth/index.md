@@ -18,7 +18,7 @@ links:
 summary: 
 publication_types:
 - "4"
-categories: ["Mapping Florida Politics"]
+categories: ["Florida Political Geography and Voting"]
 tags:
 - Florida
 - maps
