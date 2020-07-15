@@ -1,7 +1,7 @@
 ---
 abstract: 
 authors:
-- Mollie Saumier
+- MollieS
 date: "2018-03-24"
 doi: ""
 featured: false

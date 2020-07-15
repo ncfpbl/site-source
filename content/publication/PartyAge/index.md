@@ -1,7 +1,7 @@
 ---
 abstract: 
 authors:
-- Dario Macieira Mitchell
+- DarioM
 date: "2018-03-24"
 doi: ""
 featured: false
