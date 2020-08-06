@@ -82,3 +82,18 @@ This is a lot to learn at first. I highly recommend a designated person working 
 [^mute]: Features can be unmuted by adding stuff to them and activating them either in the `home/` page or by creating a menu option to access them as a separate page from home.  
 [^show]: To activate a widget on the home page, use `active=` on the file's `YAML` and change the settings according to the comments (true/false).  
 [^update]: Alternatively, you can star the Academic GitHub (https://github.com/gcushen/hugo-academic) to monitor when changes are happening and update `themes/hugo-academic/` with each posted change on the Updates page in the documentation (https://sourcethemes.com/academic/updates/v4.9.0/)
+
+# Breaking Changes
+
+- Use `i18n/en.yaml` to edit reformatted text under each ID. **EDIT the text next to "Translation" ONLY** 
+- For Example talks and publications are edited such that SEE ALL talks and publications are now SEE ALL PRESENTATIONS and SEE ALL PAPERS respectively:
+
+```
+- id: more_talks
+  translation: See all presentations
+
+- id: more_publications
+  translation: See all papers
+```
+
+- When updating, check to make sure that this file has not been changed in `theme/hugo-academic/` -- a good way to check can be using `git status` when a new `hugo-academic/` theme file has been added.
