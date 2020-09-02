@@ -59,3 +59,5 @@ static/post/
 
 # HTML files generated from .Rmd
 content/post/*.html
+
+.DS_Store
