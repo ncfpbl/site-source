@@ -6,7 +6,7 @@ education:
   courses:
   - course: Ph.D. in Political Science
     institution: Northwestern University
-    year: (Exoected) 2025
+    year: (Expected) 2025
   - course: BA in Psychology and Political Science
     institution: New College of Florida
     year: 2020
