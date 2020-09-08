@@ -61,3 +61,4 @@ static/post/
 content/post/*.html
 
 .DS_Store
+.DS_Store
