@@ -15,7 +15,7 @@ interests:
 organizations:
 - name: 
   url: ""
-role: Lab Member$:$ [2020] - [2021]
+role: Lab Member$:$ 2020 - 2021
 social:
 - icon: envelope
   icon_pack: fas
