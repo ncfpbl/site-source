@@ -25,7 +25,7 @@ social:
 superuser: true
 title: Jacob Brody-Ogborn
 user_groups:
-- Current Students
+- Alumni
 ---
 ​
 Jacob Brody-Ogborn is an undergraduate student member of the Political Behavior Lab at New College of Florida. He plans to work solving international conflicts around the world, wether that be in the Foreign Service or with a NGO.

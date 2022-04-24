@@ -25,7 +25,7 @@ social:
 superuser: true
 title: Omar Guerrero
 user_groups:
-- Current Students
+- Alumni
 ---
 
 Omar Guerrero is an undergraduate student member of the Political Behavior Lab at New College of Florida. His research interests include the intersections between politics and economics, development theory, migration policy and several aspects of Latin American politics. He intends to attend graduate school in Political Economy, and aims to produce conscientious and relevant research for better policy regarding world issues.

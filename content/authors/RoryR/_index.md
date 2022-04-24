@@ -29,7 +29,7 @@ social:
 superuser: true
 title: Rory Renzy
 user_groups:
-- Current Students
+- Alumni
 ---
 
 Rory Renzy is an undergraduate student member of the Political Behavior Lab at New College of Florida. 

@@ -26,7 +26,7 @@ social:
 superuser: true
 title: Sarah McNitt
 user_groups:
-- Current Students
+- Alumni
 ---
 
 Sarah McNitt is an undergraduate member of the Political Behavior Lab at New College of Florida. Her research interests include social networks and political participation, and governmental powers. She intends to pursue data analysis at an NGO.

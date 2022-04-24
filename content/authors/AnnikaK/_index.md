@@ -24,6 +24,6 @@ social:
 superuser: true
 title: Annika Kufrovich
 user_groups:
-- Current Students
+- Alumni
 ---
 
