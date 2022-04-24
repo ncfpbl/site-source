@@ -4,16 +4,16 @@ authors:
 bio: 
 education:
   courses:
-  - course: BA in Political Science
+  - course: BA in Political Science & Statistics
     institution: New College of Florida
-    year: (Expected) 2021
+    year: 2021
 email: ""
 interests:
 
 organizations:
 - name: 
   url: ""
-role: 
+role: Lab Member$:$ 2018-2021
 social:
 - icon: envelope
   icon_pack: fas

@@ -13,7 +13,7 @@ interests:
 organizations:
 - name: 
   url: ""
-role: 
+role: Lab Member$:$ 2017-2018
 social:
 - icon: envelope
   icon_pack: fas

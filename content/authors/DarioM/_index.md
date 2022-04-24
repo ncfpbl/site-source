@@ -4,7 +4,7 @@ authors:
 bio: 
 education:
   courses:
-  - course: BA in Political Science
+  - course: BA in History & Science
     institution: New College of Florida
     year: 2018
 email: ""
@@ -13,7 +13,7 @@ interests:
 organizations:
 - name: 
   url: ""
-role: 
+role: Lab Member$:$ 2017-2018
 social:
 - icon: envelope
   icon_pack: fas
