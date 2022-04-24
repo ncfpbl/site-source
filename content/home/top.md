@@ -56,9 +56,9 @@ subtitle = "<br><center>New College of Florida</center><br>"
 
 <center>
 
-Welcome to the Politics, Elections, and Behavior Lab at New College of Florida! We are an enthusiastic group of researchers focused on addressing questions about elections, public opinion, and political behavior. We use statistics and data science techniques to quantitatively analyze politics in the state of Florida, with particular emphases on geography (GIS), social networks (SNA), and reproducible research practices.
+Welcome to the Political Behavior Lab at New College of Florida! We are an enthusiastic group of researchers focused on addressing questions about elections, public opinion, and political behavior. We use statistics and data science techniques to quantitatively analyze politics in the state of Florida, with particular emphases on geography (GIS), social networks (SNA), and reproducible research practices.
 
-We are a team of undergradaute student researchers working under the supervision of Dr. Jack Reilly.
+We are a team of undergraduate student researchers working under the supervision of Dr. Jack Reilly.
 
 <br>
 
