@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "[Florida Political Geography and Voting](https://ncfpbl.github.io/category/florida-political-geography-and-voting/)"
+  name = "[Florida Politics](https://ncfpbl.github.io/category/florida-political-geography-and-voting/)"
   description = "Analyzing public data about Florida’s political, social, and economic landscape"
   
 #[[feature]]
