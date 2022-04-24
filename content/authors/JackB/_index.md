@@ -14,7 +14,7 @@ organizations:
 - name: 
   url: ""
 role: Lab Member$:$ 2017-2019;              
- Lab Manager$:$ 2018-2021
+ Lab Manager$:$ 2019-2021
 social:
 - icon: envelope
   icon_pack: fas
