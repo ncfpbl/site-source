@@ -6,7 +6,7 @@ education:
   courses:
   - course: BA in Political Science and Economics
     institution: New College of Florida
-    year: (Expected) 2021
+    year: 2021
 email: ""
 interests:
 - Political Economy

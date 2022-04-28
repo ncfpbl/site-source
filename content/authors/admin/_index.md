@@ -22,10 +22,13 @@ role: Associate Professor of Political Science
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: mailto:jreilly@ncf.edu
+- icon: globe
+  icon_pack: fas
+  link: https://jacklreilly.github.io
 - icon: github
   icon_pack: fab
-  link: https://github.com/jlreilly
+  link: https://github.com/jacklreilly
 superuser: true
 title: Jack Reilly
 user_groups:
